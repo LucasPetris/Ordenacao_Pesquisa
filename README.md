@@ -7,4 +7,4 @@ Método QuickSort: Lucas Petris
 Método InsertionSort: Alex Eduardo
 Método MergeSort: José Fernando
 Método BubbleSort: Victória Plautz
-.............................................................................
+
